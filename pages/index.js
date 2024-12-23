@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Láe' l Ø </h1>
+    return <h1>abre o modpack dog</h1>
 }
 
 export default Home
