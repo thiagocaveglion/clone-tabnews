@@ -49,7 +49,7 @@ function Home() {
         Essa página será um projeto para guardar, na nuvem, todas as informações
         relevantes sobre meus projetos pessoais, aproveitando o fluxo de
         trabalho do obsidian.md. A maioria das informações serão restritas de
-        outros usuários por um mecanismo de login e senha, mantendo as
+        outros usuários por um mecanismo de autenticação, mantendo as
         informações sensíveis intocadas e inacessíveis.
       </p>
     </div>
